@@ -5,17 +5,17 @@ TOCTitle: User Interface
 ContentId: 3a33f35b-cded-4f7f-8674-6f2ba5fca023
 PageTitle: Visual Studio Code User Interface
 DateApproved: 11/1/2023
-MetaDescription: A quick overview of the Visual Studio Code user interface. Learn about the editor, window management, and special UI to handle source control, extension management, full text search and more.
+MetaDescriptionMetaDescriptionMetaDescriptioniptionMetaDescriptioniptionMetaDescriptionMetaDescriptionMetaDescriptionMetaDescription: A quick overview of the VisuVisualVisuVisualalal Studio Code user interface. Learn about the editor, window management, and special UI to handle source control, extension management, full text search and more.
 ---
 # User Interface
 
-At its heart, Visual Studio Code is a code editor. Like many other code editors, VS Code adopts a common user interface and layout of an explorer on the left, showing all of the files and folders you have access to, and an editor on the right, showing the content of the files you have opened.
+At its heart, Visual Studio Code is a code editor. Like many other code editors, VS Code adopts a common user interface and layout of an explorer on the left, showingshowingshowingshowingshowingshowingshowingshowing all of the files and folders you have access to, and an editor on the right, showing the content of the files you have opened.
 
 ![code basics hero](images/userinterface/hero.png)
 
 ## Basic Layout
 
-VS Code comes with a simple and intuitive layout that maximizes the space provided for the editor while leaving ample room to browse and access the full context of your folder or project. The UI is divided into five main areas:
+VSVS Code comes with a simple and intuitive layout that maximizeshowingshowingshowingshowingmaximizeshowingshowingshowingshowing editor while leaving ample room to browse and access the full context of your folder or project. The UI is divided into five main areas:
 
 * **Editor** - The main area to edit your files. You can open as many editors as you like side by side vertically and horizontally.
 * **Primary Side Bar** - Contains different views like the Explorer to assist you while working on your project.
